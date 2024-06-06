@@ -2,7 +2,7 @@
   "name": "hardhat-project",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
-    "hardhat": "^2.12.4"
+    "hardhat": "^2.22.5"
   },
   "dependencies": {
     "@metamask/providers": "^10.2.1",
@@ -15,5 +15,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-  }
+  },
+  "version": "1.0.0",
+  "description": "After cloning the github, you will want to do the following to get the code running on your computer.",
+  "main": "hardhat.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
